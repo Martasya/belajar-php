@@ -3,11 +3,11 @@
   echo "Hello World!";
 
   $nama = "Martasya";
-  $umur = 20;
+  $umur = "20";
 
   echo "Nama saya <strong>$nama</strong>, saya berusia $umur tanun.";
 
-  $namaAdik = "Nando";[1]
+  $namaAdik = "Nando";
   $umurAdik = "12";
  
   echo "Nama Adik saya <strong>$nama</strong>, Adik saya berusia $umur tahun.<br>"
